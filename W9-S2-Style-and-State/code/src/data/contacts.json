@@ -1,0 +1,74 @@
+[
+  {
+    "name": "John Doe",
+    "position": "Software Engineer",
+    "email": "john.doe@example.com",
+    "phone": "(123) 456-7890",
+    "website": "www.johndoe.com",
+    "image" : "../assets/images/0.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "position": "Product Manager",
+    "email": "jane.smith@example.com",
+    "phone": "(234) 567-8901",
+    "website": "www.janesmith.com",
+    "image" : "../assets/images/5.jpg"
+  },
+  {
+    "name": "Mike Johnson",
+    "position": "UI/UX Designer",
+    "email": "mike.johnson@example.com",
+    "phone": "(345) 678-9012",
+    "website": "www.mikejohnson.com",
+    "image" : "../assets/images/11.jpg"
+  },
+  {
+    "name": "Emily Brown",
+    "position": "Data Scientist",
+    "email": "emily.brown@example.com",
+    "phone": "(456) 789-0123",
+    "website": "www.emilybrown.com",
+    "image" : "../assets/images/12.jpg"
+  },
+  {
+    "name": "Chris White",
+    "position": "DevOps Engineer",
+    "email": "chris.white@example.com",
+    "phone": "(567) 890-1234",
+    "website": "www.chriswhite.com",
+    "image" : "../assets/images/20.jpg"
+  },
+  {
+    "name": "Lisa Black",
+    "position": "Marketing Specialist",
+    "email": "lisa.black@example.com",
+    "phone": "(678) 901-2345",
+    "website": "www.lisablack.com",
+    "image" : "../assets/images/23.jpg"
+  },
+  {
+    "name": "Tom Green",
+    "position": "Sales Executive",
+    "email": "tom.green@example.com",
+    "phone": "(789) 012-3456",
+    "website": "www.tomgreen.com",
+    "image" : "../assets/images/25.jpg"
+  },
+  {
+    "name": "Sara Blue",
+    "position": "Content Writer",
+    "email": "sara.blue@example.com",
+    "phone": "(890) 123-4567",
+    "website": "www.sarablue.com",
+    "image" : "../assets/images/27.jpg"
+  },
+  {
+    "name": "David Orange",
+    "position": "Business Analyst",
+    "email": "david.orange@example.com",
+    "phone": "(901) 234-5678",
+    "website": "www.davidorange.com",
+    "image" : "../assets/images/40.jpg"
+  }
+]

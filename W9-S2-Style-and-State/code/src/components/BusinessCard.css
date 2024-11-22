@@ -1,0 +1,21 @@
+.business-card {
+    border-style: solid;
+    border-color: aliceblue;
+    margin: 10px;
+    text-align: center;
+}
+
+.photo-placeholder {
+    
+}
+
+.contact-info h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(37, 85, 241);
+}
+
+.contact-info p {
+    font-style: italic;
+    color:rgb(110, 247, 156);
+    text-align: left;
+}
